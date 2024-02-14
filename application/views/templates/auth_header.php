@@ -11,7 +11,7 @@
     <link href="<?= base_url('') ?>assets/vendors/font-awesome/css/font-awesome.min.css" rel="stylesheet" />
     <link href="<?= base_url('') ?>assets/vendors/themify-icons/css/themify-icons.css" rel="stylesheet" />
     <!-- THEME STYLES-->
-    <link href="assets/css/main.css" rel="stylesheet" />
+    <link href="<?= base_url('') ?>assets/css/main.css" rel="stylesheet" />
     <!-- PAGE LEVEL STYLES-->
     <link href="<?= base_url('') ?>assets/css/pages/auth-light.css" rel="stylesheet" />
 </head>
